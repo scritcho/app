@@ -1,0 +1,6 @@
+name: Demo Linter
+description: PaaS third-party action security demonstration
+
+runs:
+  using: node20
+  main: index.js
